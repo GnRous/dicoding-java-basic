@@ -1,2 +1,2 @@
 # java-basic
-Source Code Training abaout Java Basic
+source code all about basic java exercises
